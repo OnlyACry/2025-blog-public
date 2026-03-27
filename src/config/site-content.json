@@ -5,7 +5,7 @@
 		"username": "OnlyACry"
 	},
 	"theme": {
-		"colorBrand": "#35bfab",
+		"colorBrand": "#5EDAED",
 		"colorPrimary": "#334f52",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#1fc9e7",
@@ -15,12 +15,11 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#EDDD62",
-		"#9EE7D1",
-		"#84D68A",
-		"#EDDD62",
-		"#88E6E5",
-		"#a7f3d0"
+		"#ffffff",
+		"#d5fdff",
+		"#78dfff",
+		"#9bb9fd",
+		"#eeeeee"
 	],
 	"artImages": [
 		{
